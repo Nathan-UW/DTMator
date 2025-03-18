@@ -1,5 +1,5 @@
 # DTMator
 Enhanced DTM Estimation
+![Image](DTMator.png)
 
-
-Coming soon
+Coming soon...
