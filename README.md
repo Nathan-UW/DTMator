@@ -2,7 +2,7 @@
 The OpenGF-R dataset
 ![Image](OpenGF-R.png)
 
-Enhanced DTM Estimation
+DTM Estimation 
 ![Image](DTMator.png)
 
 Coming soon...
